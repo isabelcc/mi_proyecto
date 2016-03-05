@@ -1,0 +1,56 @@
+body{
+	background: magenta;
+margin-top: 50px;
+}
+
+.contenedor{
+	
+margin-top: 20px;
+
+width: 960px;
+margin: 0 auto;
+margin-top: 60px;
+}
+
+.menu-lista{
+
+list-style-type: none;
+margin: 21px;
+padding: 4px;
+}
+
+.menu-item{
+
+display: inline-block;
+}
+.menu-link{
+
+}
+
+nav{
+
+	text-align:center;
+}
+
+.menu-link{
+
+font-size: 30px;
+background:red;
+color:blue;
+
+}
+.menu-link{
+
+	padding: 10px;
+	border-radius: 20px;
+	text-decoration: none;
+}
+
+.menu-link:hover{
+
+	text-decoration: underline;
+	box-shadow: 5px 5px 15px chartreuse;
+
+	transition: 0.10s;
+
+}
